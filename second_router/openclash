@@ -1,7 +1,7 @@
 
 config config_subscribe
 	option enabled '1'
-	option name '快猫-自动'
+	option name '谷歌-自动'
 	option address '【订阅地址复制并覆盖这里】'
 	option sub_ua 'clash.meta'
 	option sub_convert '1'
